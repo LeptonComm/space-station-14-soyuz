@@ -9,7 +9,7 @@
     pillType: 2
   - type: Sprite
     sprite: _DeadSpace/Soyuz/Objects/Consumable/Food/barbaris.rsi
-    state: barbaris-candy
+    state: pill3
   - type: Label
     currentLabel: tricordrazine 10u
   - type: SolutionContainerManager
