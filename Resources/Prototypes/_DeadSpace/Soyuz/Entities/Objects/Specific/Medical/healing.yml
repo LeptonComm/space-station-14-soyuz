@@ -10,6 +10,7 @@
   - type: Sprite
     sprite: _DeadSpace/Soyuz/Objects/Consumable/Food/barbaris.rsi
     state: pill3
+    scale: 0.7, 0.7
   - type: Label
     currentLabel: tricordrazine 10u
   - type: SolutionContainerManager
